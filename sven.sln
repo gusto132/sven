@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sven.api", "sven.api\sven.api.csproj", "{0B107392-CB29-4626-8B40-EB1A680B0B51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sven.models", "sven.models\sven.models.csproj", "{40822EA4-6417-4062-B4FC-1A266537EC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sven.business", "sven.business\sven.business.csproj", "{49379987-7E2D-4BED-8975-93E0E91869A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B107392-CB29-4626-8B40-EB1A680B0B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B107392-CB29-4626-8B40-EB1A680B0B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B107392-CB29-4626-8B40-EB1A680B0B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40822EA4-6417-4062-B4FC-1A266537EC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40822EA4-6417-4062-B4FC-1A266537EC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40822EA4-6417-4062-B4FC-1A266537EC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40822EA4-6417-4062-B4FC-1A266537EC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49379987-7E2D-4BED-8975-93E0E91869A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49379987-7E2D-4BED-8975-93E0E91869A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49379987-7E2D-4BED-8975-93E0E91869A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49379987-7E2D-4BED-8975-93E0E91869A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

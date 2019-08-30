@@ -19,6 +19,16 @@
 *.rar
 *.tar
 *.zip
+*.json
+*.cache
+*.props
+*.targets
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.suo
+
 
 # Logs and databases #
 ######################

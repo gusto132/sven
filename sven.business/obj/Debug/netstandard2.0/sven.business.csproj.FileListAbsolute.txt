@@ -1,0 +1,12 @@
+C:\repo\sven\sven\sven.business\bin\Debug\netstandard2.0\sven.models.dll
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.csprojAssemblyReference.cache
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.csproj.CoreCompileInputs.cache
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.AssemblyInfoInputs.cache
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.AssemblyInfo.cs
+C:\repo\sven\sven\sven.business\bin\Debug\netstandard2.0\sven.business.deps.json
+C:\repo\sven\sven\sven.business\bin\Debug\netstandard2.0\sven.business.dll
+C:\repo\sven\sven\sven.business\bin\Debug\netstandard2.0\sven.business.pdb
+C:\repo\sven\sven\sven.business\bin\Debug\netstandard2.0\sven.models.pdb
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.csproj.CopyComplete
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.dll
+C:\repo\sven\sven\sven.business\obj\Debug\netstandard2.0\sven.business.pdb

@@ -1,0 +1,9 @@
+C:\repo\sven\sven\sven.models\bin\Debug\netstandard2.0\sven.models.deps.json
+C:\repo\sven\sven\sven.models\bin\Debug\netstandard2.0\sven.models.dll
+C:\repo\sven\sven\sven.models\bin\Debug\netstandard2.0\sven.models.pdb
+C:\repo\sven\sven\sven.models\obj\Debug\netstandard2.0\sven.models.csprojAssemblyReference.cache
+C:\repo\sven\sven\sven.models\obj\Debug\netstandard2.0\sven.models.csproj.CoreCompileInputs.cache
+C:\repo\sven\sven\sven.models\obj\Debug\netstandard2.0\sven.models.AssemblyInfoInputs.cache
+C:\repo\sven\sven\sven.models\obj\Debug\netstandard2.0\sven.models.AssemblyInfo.cs
+C:\repo\sven\sven\sven.models\obj\Debug\netstandard2.0\sven.models.dll
+C:\repo\sven\sven\sven.models\obj\Debug\netstandard2.0\sven.models.pdb

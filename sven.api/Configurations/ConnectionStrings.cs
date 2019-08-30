@@ -1,4 +1,4 @@
-﻿namespace sven.api.Configurations
+﻿namespace sven.api.configurations
 {
     public class ConnectionStrings
     {

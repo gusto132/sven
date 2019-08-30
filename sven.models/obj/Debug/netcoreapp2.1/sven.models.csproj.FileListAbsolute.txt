@@ -1,9 +1,0 @@
-C:\repo\sven\sven\sven.models\bin\Debug\netcoreapp2.1\sven.models.deps.json
-C:\repo\sven\sven\sven.models\bin\Debug\netcoreapp2.1\sven.models.dll
-C:\repo\sven\sven\sven.models\obj\Debug\netcoreapp2.1\sven.models.csprojAssemblyReference.cache
-C:\repo\sven\sven\sven.models\obj\Debug\netcoreapp2.1\sven.models.csproj.CoreCompileInputs.cache
-C:\repo\sven\sven\sven.models\obj\Debug\netcoreapp2.1\sven.models.AssemblyInfoInputs.cache
-C:\repo\sven\sven\sven.models\obj\Debug\netcoreapp2.1\sven.models.AssemblyInfo.cs
-C:\repo\sven\sven\sven.models\bin\Debug\netcoreapp2.1\sven.models.pdb
-C:\repo\sven\sven\sven.models\obj\Debug\netcoreapp2.1\sven.models.dll
-C:\repo\sven\sven\sven.models\obj\Debug\netcoreapp2.1\sven.models.pdb

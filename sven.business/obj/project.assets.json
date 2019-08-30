@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "sven.models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/sven.models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sven.models.dll": {}
+        }
       }
     }
   },
@@ -170,11 +180,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "sven.models/1.0.0": {
+      "type": "project",
+      "path": "../sven.models/sven.models.csproj",
+      "msbuildProject": "../sven.models/sven.models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "sven.models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -207,7 +223,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\repo\\sven\\sven\\sven.models\\sven.models.csproj": {
+              "projectPath": "C:\\repo\\sven\\sven\\sven.models\\sven.models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
